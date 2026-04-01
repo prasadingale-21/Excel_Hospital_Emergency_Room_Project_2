@@ -9,3 +9,9 @@ A full Emergency Room Data Project in Excel with an interactive dashboard to ana
 * Patient Age Distribution
 * Gender Analysis
 * Department Referrals
+
+# Dashboard
+
+<img width="1447" height="597" alt="Hospital ER Dashboard" src="https://github.com/user-attachments/assets/4a4ea0cd-7184-49bc-9877-6a40c6dfa3ad" />
+
+
